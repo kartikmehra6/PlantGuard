@@ -16,4 +16,4 @@ SpeechRecognition==3.10.0
 keras==2.15.0
 jupyter==1.0.0
 pytest==7.4.3
-protobuf==5.28.0
+protobuf==4.21.6
