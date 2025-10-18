@@ -1,6 +1,6 @@
 torch
 torchvision
-torchaudio==2.5.0
+torchaudio
 transformers==4.30.2
 librosa==0.10.0
 soundfile==0.12.1
