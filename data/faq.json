@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "question": "What is powdery mildew?",
+      "answer": "Powdery mildew is a fungal disease that appears as white powder on plant leaves. It thrives in warm, dry conditions. Treatment: Use sulfur-based fungicides or neem oil."
+    },
+    {
+      "question": "How do I prevent plant diseases?",
+      "answer": "Prevention steps: 1) Ensure good air circulation, 2) Water plants early in morning, 3) Avoid overhead watering, 4) Remove infected leaves promptly, 5) Practice crop rotation, 6) Keep tools clean."
+    },
+    {
+      "question": "What are symptoms of blight?",
+      "answer": "Blight shows as dark, water-soaked spots on leaves and stems. The disease spreads rapidly in wet conditions. Treatment: Remove infected parts, apply copper fungicide, improve air circulation."
+    },
+    {
+      "question": "How often should I water plants?",
+      "answer": "Most plants need watering when the top 1 inch of soil is dry. Watering in early morning reduces disease risk. Avoid wet foliage, water at soil level instead."
+    },
+    {
+      "question": "What causes leaf spots?",
+      "answer": "Leaf spots can be caused by fungi, bacteria, or viruses. Different causes require different treatments. Fungal: use fungicides. Bacterial: use copper compounds. Viral: remove plant parts, no cure."
+    }
+  ]
+}
